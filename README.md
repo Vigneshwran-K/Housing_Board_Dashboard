@@ -11,11 +11,17 @@ Buyers prefer homes with a better view and a lower price.
 The most popular property type is a single-family home.
 
 **Analysis**
+
 The increasing median house price over time reflects the overall trend of inflation in the USA. 
+
 The increase in the number of bedrooms and bathrooms in the median home reflects the changing needs and preferences of buyers. 
+
 Buyers today are looking for homes that can accommodate larger families and that have more amenities.
+
 The preference for homes with a better view and a lower price is likely due to the fact that buyers want to get the most value for their money. 
+
 Buyers are also willing to pay more for homes that are located in desirable neighborhoods or that have unique features.
+
 The popularity of single-family homes is likely due to the fact that they offer more space and privacy than other types of housing. Single-family homes are also seen as a better investment than other types of housing.
 
 **Recommendations**
