@@ -3,11 +3,14 @@ The housing market in the USA has undergone significant changes over the past ce
 **Key Findings**
 
 The median house price in the USA has increased from \$2,000 in 1900 to \$300,000 in 2015.
-The number of bedrooms and bathrooms in the median home has also increased over time.
-Buyers prefer homes with a better view and a lower price.
-The most popular property type is a single-family home.
-Analysis
 
+The number of bedrooms and bathrooms in the median home has also increased over time.
+
+Buyers prefer homes with a better view and a lower price.
+
+The most popular property type is a single-family home.
+
+**Analysis**
 The increasing median house price over time reflects the overall trend of inflation in the USA. 
 The increase in the number of bedrooms and bathrooms in the median home reflects the changing needs and preferences of buyers. 
 Buyers today are looking for homes that can accommodate larger families and that have more amenities.
